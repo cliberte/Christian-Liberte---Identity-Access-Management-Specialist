@@ -63,8 +63,8 @@ I build secure identity workflows aligned with **Zero Trust** and **Least Privil
 
 ---
 
-<details>
-  <summary><b>🧪 IAM Lab Projects (Click to Expand)</b></summary>
+<!--<details>
+  <summary><b>🧪 IAM Lab Projects (Click to Expand)</b></summary> -->
 
 ### ✅ What I’m building & documenting
 - 🔐 Conditional Access policy labs (real-world scenarios)
