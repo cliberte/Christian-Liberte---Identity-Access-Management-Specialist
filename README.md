@@ -72,7 +72,7 @@ I build secure identity workflows aligned with Zero Trust and Least Privilege �
 - 🔑 Privileged access + PIM simulations
 - 🛡️ Identity security monitoring scenarios *(in progress)*
 
- 📫 Let’s Connect
+### 📫 Let’s Connect
 
 - 💼 **LinkedIn:** [Christian Liberté](https://www.linkedin.com/in/cliberte/)
 
