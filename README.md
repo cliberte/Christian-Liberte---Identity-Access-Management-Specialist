@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/cliberte/)/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[(https://www.linkedin.com/in/cliberte/)]/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto: christianliberte@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
