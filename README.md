@@ -72,10 +72,10 @@ I build secure identity workflows aligned with Zero Trust and Least Privilege �
 - 🔑 Privileged access + PIM simulations
 - 🛡️ Identity security monitoring scenarios *(in progress)*
 
-
-<p align="center">
-  <i>“Secure identity is the foundation of secure systems.”</i>
-</p>
-## 📫 Let’s Connect
+ 📫 Let’s Connect
 
 - 💼 **LinkedIn:** [Christian Liberté](https://www.linkedin.com/in/cliberte/)
+
+  <p align="center">
+  <i>“Secure identity is the foundation of secure systems.”</i>
+</p>
