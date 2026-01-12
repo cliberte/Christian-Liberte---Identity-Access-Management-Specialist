@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I’m Christian 👋</h1>
 <p align="center">
   <b>IAM & Cloud Identity Security | Microsoft Entra ID | PowerShell Automation</b><br/>
-  Montréal, QC 🇨🇦 · Remote-Friendly 🌎 · US & Canadian Citizen 🇺🇸🇨🇦
 </p>
 
 <p align="center">
