@@ -17,9 +17,9 @@
 
 ## 🔐 About Me
 
-I’m an **Identity & Access Management (IAM)** professional with **10+ years in IT**, focused on **Microsoft Entra ID (Azure AD)**, identity governance, and access automation.
+I’m an Identity & Access Management (IAM) professional with 10+ years in IT, focused on Microsoft Entra ID (Azure AD), identity governance, and access automation.
 
-I build secure identity workflows aligned with **Zero Trust** and **Least Privilege** — and document hands-on projects in my **IAM Lab**.
+I build secure identity workflows aligned with Zero Trust and Least Privilege — and document hands-on projects in my IAM Lab.
 
 ---
 
