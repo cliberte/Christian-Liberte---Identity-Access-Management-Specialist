@@ -56,9 +56,9 @@ I build secure identity workflows aligned with Zero Trust and Least Privilege �
 ## 🎯 Current Focus
 
 - 📚 **SC-300** (Microsoft Identity & Access Administrator)
-- 🧪 Building & documenting my **IAM Home Lab**
-- 🛠️ Releasing projects: **CA policies, onboarding/offboarding scripts, role audits**
-- 🚀 Targeting roles: **IAM Analyst → IAM Engineer → Security Engineer**
+- 🧪 Building & documenting my IAM Home Lab
+- 🛠️ Releasing projects: CA policies, onboarding/offboarding scripts, role audits
+- 🚀 Targeting roles: IAM Analyst → IAM Engineer → Security Engineer
 
 ---
 
