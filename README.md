@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I’m Christian 👋</h1>
 <p align="center">
-  <b>IAM & Cloud Identity Security | Microsoft Entra ID | PowerShell Automation</b><br/>
+  <b>Identity & Access Management | Microsoft Entra ID | Active Directory | PowerShell & Jenkins Automation | SC-300</b><br/>
 </p>
 
 <p align="center">
